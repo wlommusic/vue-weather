@@ -1,6 +1,9 @@
 <template>
   <div id="app" :class="typeof weather.main != 'undefined' && weather.main.temp > 24 ? 'warm' : ''">
     <main>
+      <div class='header'>
+        this is my webiste
+      </div> 
       <div class="search-box">
         <input 
           type="text" 
