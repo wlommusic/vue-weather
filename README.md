@@ -1,3 +1,4 @@
+ [this app is deployed on netlify click here](https://vue-weatherbywlom.netlify.app).
 # vue-weather
 
 ## Project setup
